@@ -17,7 +17,17 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "seo": [
+        "dist/seo",
+        "dist/seo"
+      ],
+      "seo/*": [
+        "dist/seo/*",
+        "dist/seo/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

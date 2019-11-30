@@ -1,0 +1,24 @@
+{
+  "name": "ng-seo",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": "koenig-dominik/ng-seo",
+  "author": {
+    "name": "Dominik König",
+    "url": "https://github.com/koenig-dominik"
+  },
+  "description": "The SEO library for Angular.",
+  "keywords": [
+    "angular",
+    "ngx",
+    "seo",
+    "meta",
+    "json-ld",
+    "universal",
+    "ssr"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
